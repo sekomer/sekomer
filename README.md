@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Software Architecture and System Architecture**
 
-- 🌱 I’m currently learning **Spring Boot, Spark, Hadoop, Kubernetes, React**
+- 🌱 I’m currently learning **Rust, Networking, Spring Boot, Kubernetes, Next.js**
 
-- 💬 Ask me about **Linux, Vim, Backend, Embedded Programming, DevOps, Machine Learning**
+- 💬 Ask me about **Linux, Vim, C, Python, Backend, Embedded, Machine Learning**
 
 - 📫 How to reach me **a.serkanaksoz@gmail.com**
 
-- ⚡ Fun fact **I think front end developers are not engineers.**
+- ⚡ Fun fact **I think front-end developers are not engineers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
