@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Architecture**
 
-- 🌱 I’m currently learning **Spring Boot, Kubernetes, French**
+- 🌱 I’m currently learning **Nginx, Kubernetes, French**
 
 - 💬 Ask me about **Linux, Vim, CPython, Backend, Machine Learning**
 
