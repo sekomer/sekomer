@@ -1,8 +1,6 @@
-<h1 align="">Alperen</h1>
-<h3 align="">Blockchain Engineer and Vim Enthusiast</h3>
+Interested in distributed systems, blockchain, and cryptology. Loves Rust and Go.
 
-Interested in distributed systems, software architecture, and blockchain technology. Loves Rust and Go.
-
+<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sekomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sekomer" height="30" width="40" /></a>
@@ -10,6 +8,7 @@ Interested in distributed systems, software architecture, and blockchain technol
 <a href="https://kaggle.com/sekomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sekomer" height="30" width="40" /></a>
 <a href="https://sekomer.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/185785/blog.svg" alt="sekomer personal website" height="30" width="40" /></a>
 </p>
+--->
 
 
 <!---
